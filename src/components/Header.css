@@ -1,0 +1,13 @@
+.header{
+    background: violet;
+    padding: 15px 25px;
+    color: whitesmoke;
+}
+.header nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav h1{
+    font-size: 24px;
+}
